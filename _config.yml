@@ -7,7 +7,7 @@ highlighter: rouge
 markdown: kramdown
 disqus: dbyll
 google_analytics: dbyll
-title: dbyll
+title: Guilherme Kenzo's Personal Blog
 
 defaults:
   -
@@ -24,7 +24,7 @@ author:
   twitter: https://twitter.com/Guilherme_kenzo
   pinterest:
   linkedin: https://www.linkedin.com/in/guilherme-kenzo-dos-santos/
-  bio:
+  bio: Masters Student at University of São Paulo. Researcher at FGV Law School.
   email_md5:
 
 rss_path: feed.xml
