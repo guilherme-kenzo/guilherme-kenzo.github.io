@@ -7,16 +7,16 @@ highlighter: rouge
 markdown: kramdown
 disqus: dbyll
 google_analytics: dbyll
-title: Guilherme Kenzo's Personal Blog
+title: Guilherme Kenzo\'s Personal Blog
 
 defaults:
   -
     scope:
       path: "" # empty string for all files
     values:
-      title: dbyll
+      title: Guilherme Kenzo\'s Blog
 
-description: Guilherme Kenzo's Blog
+description: Guilherme Kenzo\'s Blog
 author:
   name: Guilherme Kenzo
   email: guilhermekenzo.s [at] gmail.com
