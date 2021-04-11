@@ -1,7 +1,7 @@
 baseURL: 'https://guilherme-kenzo.github.io/'
 languageCode: pt
 title: Guilherme Kenzo dos Santos
-theme: PaperMod
+theme: "PaperMod"
 paginate: 2
 Copyright: © Guilherme Kenzo dos Santos
 canonifyurls: true
