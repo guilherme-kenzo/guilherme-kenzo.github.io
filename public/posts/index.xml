@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Guilherme Kenzo dos Santos</title>
+    <link>https://guilherme-kenzo.github.io/posts/</link>
+    <description>Recent content in Posts on Guilherme Kenzo dos Santos</description>
+    <image>
+      <url>https://guilherme-kenzo.github.io/papermod-cover.png</url>
+      <link>https://guilherme-kenzo.github.io/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt</language>
+    <copyright>© Guilherme Kenzo dos Santos</copyright>
+    <lastBuildDate>Tue, 16 Mar 2021 23:18:26 -0300</lastBuildDate><atom:link href="https://guilherme-kenzo.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First post!</title>
+      <link>https://guilherme-kenzo.github.io/posts/first_post/</link>
+      <pubDate>Tue, 16 Mar 2021 23:18:26 -0300</pubDate>
+      
+      <guid>https://guilherme-kenzo.github.io/posts/first_post/</guid>
+      <description>Introduction to the blog This blog will serve as a platform for my personal projects regarding software development, electronics, woodworking or any other of my hobbies. I might cross-post the content here, but my intention is to maintain this as my primary platform.
+Most of the posts will be in portuguese, as my primary purpose is to share my projects with family and friends (who are mostly brazilian, as am I).</description>
+    </item>
+    
+  </channel>
+</rss>

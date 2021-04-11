@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://guilherme-kenzo.github.io/sitemap.xml

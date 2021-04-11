@@ -1,7 +1,7 @@
 baseURL: 'https://guilherme-kenzo.github.io/'
 languageCode: pt
 title: Guilherme Kenzo dos Santos
-theme: PaperMod theme
+theme: PaperMod
 paginate: 2
 Copyright: © Guilherme Kenzo dos Santos
 canonifyurls: true
@@ -14,7 +14,8 @@ buildExpired: false
 
 params:
   description: Guilherme Kenzo's Personal Blog
-  authorlocation: São Paulo  en:
+  authorlocation: São Paulo  
+  en:
     LanguageName: "English"
     weight: 2
     menu:

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Guilherme Kenzo dos Santos</title>
+    <link>https://guilherme-kenzo.github.io/pt/</link>
+    <description>Recent content on Guilherme Kenzo dos Santos</description>
+    <image>
+      <url>https://guilherme-kenzo.github.io/papermod-cover.png</url>
+      <link>https://guilherme-kenzo.github.io/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt</language>
+    <copyright>© Guilherme Kenzo dos Santos</copyright>
+    <lastBuildDate>Wed, 17 Mar 2021 11:21:56 -0300</lastBuildDate><atom:link href="https://guilherme-kenzo.github.io/pt/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Primeiro Post!</title>
+      <link>https://guilherme-kenzo.github.io/pt/posts/first_post/</link>
+      <pubDate>Wed, 17 Mar 2021 11:21:56 -0300</pubDate>
+      
+      <guid>https://guilherme-kenzo.github.io/pt/posts/first_post/</guid>
+      <description>Introdução ao blog Este blog servirá como uma plataforma para meus projetos pessoais relacionados ao desenvolvimento de software, eletrônica, marcenaria ou qualquer outro dos meus hobbies e interesses. Talvez eu poste o conteúdo em outras plataformas (como medium e linkedin), mas minha intenção é manter este blog como minha plataforma principal.
+A maioria das postagens será em português, já que meu principal objetivo é compartilhar meus projetos com minha família e amigos.</description>
+    </item>
+    
+    <item>
+      <title>Contato</title>
+      <link>https://guilherme-kenzo.github.io/pt/contact/</link>
+      <pubDate>Tue, 16 Mar 2021 23:34:39 -0300</pubDate>
+      
+      <guid>https://guilherme-kenzo.github.io/pt/contact/</guid>
+      <description>Quer conversar? A melhor maneira de entrar em contato é por email: guilherme [ arroba ] turivius.com . As vezes (raramente) também vejo minhas mensagens no linkedin e twitter: @guilherme_kenzo.
+Atualmente não estou aberto a propostas e projetos.Search</description>
+    </item>
+    
+    
+  </channel>
+</rss>
