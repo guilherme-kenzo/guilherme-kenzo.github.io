@@ -11,6 +11,7 @@ buildDrafts: false
 buildFuture: false
 buildExpired: false
 defaultContentLanguage: pt
+googleAnalytics: G-K92278YPL9
 
 params:
   description: Guilherme Kenzo's Personal Blog
