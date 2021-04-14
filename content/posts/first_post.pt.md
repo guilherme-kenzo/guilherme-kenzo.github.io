@@ -10,21 +10,21 @@ Este blog servirá como uma plataforma para meus projetos pessoais relacionados 
 
 A maioria das postagens será em português, já que meu principal objetivo é compartilhar meus projetos com minha família e amigos. Talvez eu experimente traduzir manualmente alguns dos posts, bem como usar tradução automática, mas isso vai depender do meu tempo disponível.
 
-# Qual tipo de conteúdo irei produzir?
+# Desenvolvimento, Eletrônica, Microcontroladores e Marcenaria
 
 Conforme declarado anteriormente, postarei sobre meus hobbies. Para conteúdo relacionado a minha vida profissional, você pode acessar o site de minha empresa: [Turivius](https://turivius.com/). E quais são meus hobbies?
 
 ## Desenvolvimento de software
 
-![ ](/code.png)
+![ ](/code-fs8.png)
 
 É aqui que meus hobbies se cruzam com minha vida profissional. Pode ser estranho, mas passo grande parte do meu tempo livre escrevendo código - como CTO da minha empresa, acabo escrevendo menos software do que gostaria. Aprender novas linguagens, experimentar novos projetos *open source* e ler sobre novas tecnologias é como tento acompanhar a juventude de hoje.
 
 ## Eletrônica e microcontroladores
 
-![ ](/electronics.png)
+![ ](/electronics.jpg)
 
-Essa categoria é, ao menos em parte, relacionada com dev. Embora meus conhecimentos nessa área sejam limitados, eletrônica é um hobbie desde minha adolescência ― quando comecei a fazer pedais de efeito de guitarra e miniamplificadores. Nos últimos tempos, minha atenção se voltou para automação residencial.
+Essa categoria é, ao menos em parte, relacionada com desenvolvimento. Embora meus conhecimentos nessa área sejam limitados, eletrônica é um hobbie desde minha adolescência ― quando comecei a fazer pedais de efeito de guitarra e miniamplificadores. Nos últimos tempos, minha atenção se voltou para automação residencial, microcontroladores em geral e sistemas embarcados.
 
 ## Marcenaria
 
