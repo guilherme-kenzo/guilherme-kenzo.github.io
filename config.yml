@@ -2,7 +2,7 @@ baseURL: 'https://guilhermekenzo.me/'
 languageCode: pt
 title: Guilherme Kenzo dos Santos
 theme: "PaperMod"
-paginate: 2
+paginate: 4
 Copyright: © Guilherme Kenzo dos Santos
 canonifyurls: true
 enableInlineShortcodes: true

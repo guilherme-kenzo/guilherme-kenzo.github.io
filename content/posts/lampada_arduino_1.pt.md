@@ -16,7 +16,7 @@ Comecei a prototipar algumas coisas na protoboard até chegar em um resultado sa
 
 <iframe src="https://giphy.com/embed/8CrHYU3b9si6OpSSBc"></iframe>
 
-O circuito é bastante simples: As fitas de led que comprei tem o ânodo para cada uma das cores e um cátodo comum. Deste modo, conectei os emissores de três transistores 2n2222 no polo negativo do circuito e os coletores em cada um dos ânodos dos leds. Adicionei um botão e um potenciômetro para controlar as cores: o potenciômetro controla a intensidade da luz e o botão permite selecionar uma cor específica para ser controlada. Posteriormente adicionei um botão adicional para controlar os leds de alta intensidade, que controlo utilizando um mosfet (por sua vez controlado por um 2n2222) e um lm7805 + um resistor para diminuir a tensão. O código pode ser encontrado [aqui](https://github.com/guilherme-kenzo/arduino-desk-lamp).  
+O circuito é bastante simples: As fitas de led que comprei tem um ânodo para cada uma das cores e um cátodo comum. Deste modo, conectei os emissores de três transistores 2n2222 no polo negativo do circuito e os coletores em cada um dos ânodos dos leds. Adicionei um botão e um potenciômetro para controlar as cores: o potenciômetro controla a intensidade da luz e o botão permite selecionar uma cor específica para ser controlada. Posteriormente adicionei um botão adicional para controlar os leds de alta intensidade, que controlo utilizando um mosfet (por sua vez controlado por um 2n2222) e um lm7805 + um resistor para diminuir a tensão. O código pode ser encontrado [aqui](https://github.com/guilherme-kenzo/arduino-desk-lamp).  
 
 Posteriormente, soldei o circuito em uma perfboard (sem o arduino, obviamente).
 
