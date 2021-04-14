@@ -10,29 +10,11 @@ enableRobotsTXT: true
 buildDrafts: false
 buildFuture: false
 buildExpired: false
-
+defaultContentLanguage: pt
 
 params:
   description: Guilherme Kenzo's Personal Blog
   authorlocation: São Paulo  
-  en:
-    LanguageName: "English"
-    weight: 2
-    menu:
-      main:
-        - name: Home
-          weight: 0
-          identifier: home
-          pre: <br />
-          url: /
-        - name: Contact
-          weight: 100
-          identifier: contact
-          pre: <br />
-          url: contact/
-        - name: Search
-          url: search/
-          weight: 200
 
   githubName: guilherme_kenzo
   linkedinName: guilherme-kenzo
@@ -44,14 +26,14 @@ params:
   ShowPostNavLinks: true
   ShowBreadCrumbs: true
   ShowToc: true
-  images: ["papermod-cover.png"]
+  images: ["electronics.jpg"]
 
 
 languages:
 
   pt:
     LanguageName: "Português"
-    weight: 1
+    weight: 2
     menu:
       main:
         - name: Página Inicial
@@ -71,7 +53,7 @@ languages:
 
   en:
     LanguageName: "English"
-    weight: 2
+    weight: 1
     menu:
       main:
         - name: Home
